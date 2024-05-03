@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of **SelfDZSR++ and SelfTZSR++**
 
-This work is extended from [SelfDZSR](https://arxiv.org/abs/2203.01325) (ECCV 2022, [Github](https://github.com/cszhilu1998/SelfDZSR)).
+This work is extended from [SelfDZSR](https://arxiv.org/abs/2203.01325) (ECCV 2022, [GitHub](https://github.com/cszhilu1998/SelfDZSR)).
 
 
 
