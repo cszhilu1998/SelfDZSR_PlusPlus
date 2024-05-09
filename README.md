@@ -1,6 +1,6 @@
 # SelfDZSR++ (TPAMI 2024)
 
-Official PyTorch implementation of **SelfDZSR++ and SelfTZSR++**
+Official PyTorch implementation of [**SelfDZSR++ and SelfTZSR++**](https://arxiv.org/abs/2405.02171)
 
 This work is extended from [SelfDZSR](https://arxiv.org/abs/2203.01325) (ECCV 2022, [GitHub](https://github.com/cszhilu1998/SelfDZSR)).
 
@@ -12,6 +12,8 @@ This work is extended from [SelfDZSR](https://arxiv.org/abs/2203.01325) (ECCV 20
 <br>Harbin Institute of Technology, China
 
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2405.02171-b10.svg)](https://arxiv.org/abs/2405.02171) &nbsp; | &nbsp; 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cszhilu1998.SelfDZSR_PlusPlus)
 
 
@@ -98,7 +100,7 @@ If you find it useful in your research, please consider citing:
         journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
         year={2024},
         publisher={IEEE}
-}
+    }
 
 ## 6. Acknowledgement
 
