@@ -1,4 +1,4 @@
-# SelfDZSR++ (TPAMI 2024)
+# SelfDZSR++ and SelfTZSR+ (TPAMI 2024)
 
 Official PyTorch implementation of [**SelfDZSR++ and SelfTZSR++**](https://arxiv.org/abs/2405.02171)
 
