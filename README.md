@@ -98,7 +98,10 @@ If you find it useful in your research, please consider citing:
         title={Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations},
         author={Zhang, Zhilu and Wang, Ruohao and Zhang, Hongzhi and Zuo, Wangmeng},
         journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-        year={2024},
+        volume={47},
+        number={3},
+        pages={1348--1361},
+        year={2025},
         publisher={IEEE}
     }
 
