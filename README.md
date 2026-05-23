@@ -1,4 +1,4 @@
-# SelfDZSR++ and SelfTZSR+ (TPAMI 2024)
+# SelfDZSR++ and SelfTZSR+ (TPAMI 2025)
 
 Official PyTorch implementation of [**SelfDZSR++ and SelfTZSR++**](https://arxiv.org/abs/2405.02171)
 
@@ -7,7 +7,7 @@ This work is extended from [SelfDZSR](https://arxiv.org/abs/2203.01325) (ECCV 20
 
 
 > [**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**](https://ieeexplore.ieee.org/abstract/document/10476716) <br>
-> IEEE TPAMI, 2024 <br>
+> IEEE TPAMI, 2025 <br>
 > [Zhilu Zhang](https://scholar.google.com/citations?user=8pIq2N0AAAAJ), [Ruohao Wang](https://scholar.google.com/citations?user=o1FPNwQAAAAJ), [Hongzhi Zhang](https://scholar.google.com/citations?user=Ysk4WBwAAAAJ), [Wangmeng Zuo](https://scholar.google.com/citations?user=rUOpCEYAAAAJ)
 <br>Harbin Institute of Technology, China
 
